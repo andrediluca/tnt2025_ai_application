@@ -1,0 +1,17 @@
+# Core libraries
+numpy>=1.22
+pandas>=1.4
+scikit-learn>=1.1
+h5py>=2.3
+
+# Visualization
+matplotlib>=3.5
+seaborn>=0.11
+
+# PyTorch
+torch>=2.0
+torchvision>=0.15
+torchaudio>=2.0
+
+# Jupyter Notebook
+notebook>=6.5
